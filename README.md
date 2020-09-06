@@ -12,7 +12,7 @@ Para usarlo se debe clonar el repo, incluirlo en tu lista de componentes de Reac
 
 ## Construido con 🛠️
 * [React-Native](https://reactnative.dev/) - desarrollado para proyectos en react-native
-* [API animated](https://reactnative.dev/docs/animated) -  Api y componentes re react-native animables
+* [API animated](https://reactnative.dev/docs/animated) -  Api y componentes de react-native animables
 
 
 ## Autor
