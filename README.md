@@ -6,7 +6,7 @@ Este es un componente de react-native que se lo puede utilizar en cualquier apli
 Para usarlo se debe clonar el repo, incluirlo en tu lista de componentes de React e importarlo en donde se requiera usar, para mas información visitar la pagina oficial de React-native 
 
 
-![visualización](https://raw.githubusercontent.com/DavidErira/ComponenteAnimado_ReactNative/master/CapturaAppNAme.PNG)
+![visualización](https://raw.githubusercontent.com/DavidErira/ComponenteAnimado_ReactNative/master/CapturaAppName.PNG)
 
 
 
